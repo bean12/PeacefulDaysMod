@@ -1,0 +1,22 @@
+[
+{
+  "modid": "PeacefulDays",
+  "name": "Peaceful Days",
+  "description": "New lifestyle in new peaceful world.
+  Added mob ores and some recipes. You should play in peaceful mode.",
+  "version": "1.0.0",
+  "mcversion": "1.4.5",
+  "url": "http://laco0416.github.com/PeacefulDaysMod",
+  "updateUrl": "",
+  "authors": [
+    "laco0416"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
